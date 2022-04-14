@@ -16,3 +16,5 @@ g++ -pthread -o glfw_tri test_glfw_triangle.cpp ./libglad.a  -lglfw  -lGLU -lGL 
 
 //   OpenGL reference
 https://learnopengl.com/Getting-started/OpenGL
+
+Please see opengl_readme.txt
